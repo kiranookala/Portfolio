@@ -1,0 +1,26 @@
+
+.main-header{
+    font-family:Apple Chancery;
+    color: #4e5454;
+    font: 400 13px/0.8 'Cookie', Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+    background-color: #e4ba9c;
+}
+.pro-pic
+{
+    border-radius:50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: rgb(0, 0, 0) 2px 2px 5px;
+}
+.main-header-content
+{
+    margin: 15px;
+}
